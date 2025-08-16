@@ -1,0 +1,51 @@
+Gamer Matching Site — PRD Notes (Draft)
+Summary
+
+New site for gamers to find people to play with and organize sessions.
+Combines a social network layer with tools for scheduling and coordination.
+Primary Jobs-to-be-Done
+Host: Post a game/session and recruit players.
+Player: Discover/join games and coordinate meets via the app.
+Core Features
+Profiles: Required on signup; include location, transport preferences, and travel willingness.
+Groups (UGC): Create/join/subscribe to groups; waiting lists for sessions.
+Session Rundowns: Wiki-style pages for characters, places; AI image generation from text; attach video.
+Social Network Layer: Connect and interact around games/groups.
+Internal Communication: Built-in messaging or third-party integration.
+Calendar Integration: Sync with user calendars.
+Maps & Travel: Google Maps integration for travel distance.
+Second-Hand Marketplace: Monetized (ads, fees TBD).
+POC: Prototype with a tool like Lovable.
+User Types
+Player: Free.
+Non-professional GM/Host: Free.
+Professional GM/Host: Paid games; they pay the platform.
+Business: For stores, conventions, etc.
+Initial Game Categories
+Tabletop RPGs, LARP, Card games (e.g., Magic: The Gathering), Miniature games.
+Monetization & Open Questions
+Ads, UGC monetization, marketplace fees.
+Safety/moderation, PLG motion, third-party integrations, privacy, and more.
+
+## data entities
+- player: game categories, games + proficiency, 
+-- availability slots 
+-- friends
+-- characters played in games 
+-- events joined
+- game: one-time, multiple events
+-- players ("the usual crew")
+-- players in waiting list
+-- events: 
+--- players
+--- players in waiting list 
+-- game blog
+--- posts 
+
+
+modules
+- game home 
+
+## open questions
+can we interface with calendly? how? is there a price? 
+is there a free third party integration for internal messaging? 
