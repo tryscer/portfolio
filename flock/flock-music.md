@@ -20,8 +20,7 @@
 
 > *It's morning in America, folks, and DJ Jonah here, coming to you LIVE on the air from a SECRET LOCATION up in the BIRD'S NEST, overlooking a beautiful valley which shall NOT BE NAMED… and let me tell you, listener JANE and listener JOHN… let me tell you… it's overrun with birds today, big ones, small ones, green ones and white ones, flocking together, going their own way, this way and then the other… Did you know the ancient ROMANS, Caesar himself, would read the future by the flight of the birds? Anyway, here's The CORDETTES with LOLLIPOP…*
 
-*Ba-boom-boom-boom…*
-
+### Ba-boom-boom-boom…
 It is 1958 and a record is playing on the little record player I got for my sweet sixteenth. It's an early-summer morning and the windows in my childhood bedroom are open, inviting fresh cut grass smells and fat, lazy bumblebees. I'm dancing with myself, keeping one eye on my bedroom door, lest it should suddenly open.
 
 *Gee, my lollipop is HHHWWWONK!*
@@ -36,7 +35,7 @@ and stuff some necessities into my handbag: a little powder kit, my babysitting 
 
 "We'll all gonna be late, Peaches!" yells Cindy from the car. I shoo at her and climb down the Elm tree planted beneath my bedroom window.
 
-I run across my parents' front lawn, stealthy and undetected. I slip into the back seat. Inside it's full of people and already steaming hot: Cindy, in the middle, sits next to a girl I think I know, their cousin from New York; in front, it's Barry, sweating at the wheel, and a mystery boy, flexen-haired and wearing sunglasses, sitting next to him. Ricky Nelson is singing on the radio about having been a little fool.
+I run across my parents' front lawn, stealthy and undetected. I slip into the back seat. Inside it's full of people and already steaming hot: Cindy, in the middle, sits next to a girl I think I know, their cousin from New York; in front, it's Barry, sweating at the wheel, and a mystery boy, flexed-haired and wearing sunglasses, sitting next to him. Ricky Nelson is singing on the radio about having been a little fool.
 
 "Peaches!"
 
@@ -108,7 +107,7 @@ Puppy ventures, "Is the show we're going to… in your opinion, of course…"
 
 Barry and Tim exchange disgusted, amused looks. To my horror, Cindy and Puppy do the same. It seems my catastrophe has reunited them… if only for a moment. The next one, Cindy is saying, "Puppy, have *you* been to any good shows? I mean really good ones. Because, you know…"
 
-Tim cuts through Cindy's *Coup de Grace* by shoving a piece of paper in my face: "The Seven-Tops. They're from *Nashville*". The piece of paper lists the many ACTS and SHOWS and POINTS OF INTEREST in this year's RICHMOND, VA'S COUNTY FAIR - ACHIEVEMENT DAY! — among them, and circled in red, are the SEVEN-TOPS, to be playing at 2:30 p.m., right after THE BURNING BUSH RAILWAY COMPANY. I imagine a long train, all set ablaze, and I shudder.
+Tim cuts through Cindy's *Coup de Grace* by shoving a torn piece of newspaper in my face: "The Seven-Tops. They're from *Nashville*". The newspaper lists the many ACTS and SHOWS and POINTS OF INTEREST in this year's RICHMOND, VA'S COUNTY FAIR - ACHIEVEMENT DAY! — among them, and circled in red, are the SEVEN-TOPS, to be playing at 2:30 p.m., right after THE MIDNIGHT ENGINE. I imagine a train engine snoring and I laugh.
 
 "What's Achievement Day?" I ask.
 
@@ -206,7 +205,7 @@ The radio is blaring. "What did you want to tell me?" I say in Cindy's ear.
 
 Cindy whispers in my ear, "I'm running away from home".
 
----
+### BROOM BROOM BROOM!
 
 For the last two miles Barry and Tim had to push the car, with elder girl Puppy sitting at the wheel, and all of them engaged in a half-angry shouting match.
 
@@ -280,7 +279,7 @@ We come closer.
 
 "Excuse me," says Barry, official-like. The man whose name is probably Eddie looks up. He's got black eyes and black hair, combed up like a wall above his head. He's very handsome.
 
-"If you're looking for Larry, you gotta hollar through the door," he says. "He's in the kitchen making his terrible barbecue".
+"If you're looking for Larry, you gotta holler through the door," he says. "He's in the kitchen making his terrible barbecue".
 
 "Actually," says Barry, "we need a mechanic".
 
@@ -378,7 +377,7 @@ Both guys look at me. Even the drunkard on the table has got one eye half open.
 
 "That's easy," I say with glee. "Roll Over Beethoven. Now fix my friend's car please".
 
-"Not so fast, Susie Q", says Eddie. My heart sinks. "You are correct in identifying the genius guitarslinger involved, but got the song all wrong. This, of course, is Rolly Polly by Chuck Barry".
+"Not so fast, Susie Q", says Eddie. My heart sinks. "You are correct in identifying the genius guitar-slinger involved, but got the song all wrong. This, of course, is Rolly Polly by Chuck Barry".
 
 "I told you," whispers Barry. The drunkard goes back to sleep. Eddie pushes his glass towards Barry and gleefully tilts the bottle over it. Barry looks at his glass, then at the passed-out man next to him.
 
@@ -387,6 +386,9 @@ This goes on for a while.
 "And I'll tell you one other thing!" says Barry. He's quite drunk. [...]
 
 "I'll get the next one, Bark, I'm sorry", I say.
+
+### *WEEEEEEEEEEE! Unnnnnnngg…*
+
 
 ---
 
@@ -512,7 +514,7 @@ I'm-a …bout to paint me…"*
 
 "Another bird joins the flock," says Kimberly.
 
-When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little clearing. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little carlit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
+When he's finished, some other guy comes and takes the brush, turning towards his car. Somebody found a few more paintbrushes in his trunk and he puts them in the middle of the little clearing. Some more paint cans are found – candy-apple red, mint-green, midnight blue – and then some aerosol spray cans, too. One girl paints a striking image of a Tropical Turquoise heart melting over her front door. Someone transforms his '52 Bel Air into a rainbow. A group of young workmen are busy filling every surface – doors, windows, roof – on their little van with all the lyrics they could remember. They use paint, they use Magic Markers. They are humming the songs as they do that. I suddenly realize how filled with song that little car-lit parking lot has become. At that point I am hit by an image I will never forget: a flock of birds convening mid-flight, matching their speed, sharing their direction, and always changing, rearranging: a leader becoming a follower. A follower becoming a leader.
 
 I whisper to Cindy, "talk to him. Tell him. Tell him you'll be leaving either way".
 
@@ -527,8 +529,15 @@ He walks towards the middle of the parking lot, where paint and brushes are wait
 ---
 
 # Side 2: Tim
+## Track 5: Morning, Gorgeous
+I first fell in love with Alice at the sunrise after we decided to follow The Midnight Engine. Sometimes an early sun would catch my eye just right and I would instantly see it again, how she was asleep in the back seat of Barry’s old car, how her head was slumped on the window with her big patches of freckles on that very white skin — how her fingers and hair were dipped in radiant pink. Barry has been driving right behind the band’s van, and every now and then Eddie would pop his head out of the window and shout something back, something lilke, *we stop for gas in a mile or two*. We’ve been driving all night, at first so excited we talked in hushed, urgent voices, like we were sharing a secret. Everybody was congratulating or joshing Barry about his newfound freedom. It took a long time for the girls to fall asleep. Now it was just me and Barry, my hand hanging on the seat behind him, taking in the view. Then I looked back and I saw Alice, all freckles and paint, and a pain I never felt before went coursing through my veins. I thought, *I’ve never seen anything so pretty*. I thought, *I’ve never been happier*. I thought, *I’ve never been quite so miserable*. 
 
-It was a different time, you know? Very different.
+Around us were cars driven by fellow fans, sometimes overtaking, sometimes slowing down. Every now and then Kimberly’s car, its doors painted with red hearts, would drive by us, and she would lean out of the window and blow kisses at us. Lots of other drivers of those painted cars would signal and wave as they passed, but Kimberly sent kisses. 
+
+Our car had its own ornament, right there ahead of us, taking up all of the space on the hood. Barry painted it and Alice gave the finishing touches. 
+
+At first he was  
+	
 
 # Side 3: Prof. Elenore Rose
 
