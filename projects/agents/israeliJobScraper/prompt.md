@@ -1,1 +1,0 @@
-append to jobs.csv with 10 recent (30 days) job postings for the title of senior product manager from the companies in companies.csv - return company name, title, link to posting on company website
